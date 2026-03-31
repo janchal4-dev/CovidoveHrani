@@ -1,0 +1,62 @@
+.div1{
+    border: 3px solid red;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 25px;
+    padding-bottom: 45px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+#formdiv{
+    border: 3px solid blue;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 25px;
+    padding-bottom: 55px;
+    height: 280px;
+    padding-left: 20px;
+}
+.doneP{
+    text-align: left;
+    float: left;
+    margin-top: 0px;
+}
+.button0, .button1{
+    float: left;
+    margin-right: 20px;
+}
+#submit{
+    float: left;
+}
+#maindiv{
+    width: 750px;
+    max-width: 100%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.checkbox{
+    margin-left: 20px;
+}
+
+#input0, #input1{
+    width:85%;
+    margin-left: 0%;
+    margin-right: 5%;
+    border: 3px solid blue;
+    height: 50px;
+    margin-top: 10px;
+    font-size: 30px;
+}
+#JsonClear{
+    margin-right: 30px;
+    margin-top: -59px;
+    float: right;
+}
+.toList{
+    visibility: hidden;
+}
+#deadLineFormat{
+    margin-bottom: 0px;
+}

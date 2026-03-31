@@ -1,0 +1,122 @@
+body{
+    font-family: arial, sans-serif;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+#nameHeader{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+    margin-left: 200px;
+    width: 100px;
+
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    /*optional*/
+    /*input has OS specific font-family*/
+    cursor: pointer;
+}
+p, a{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    width: 500px;
+    margin-top: 0px;
+    text-decoration: none;
+}
+input, #indexHref{
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    border: 5px solid white;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+#editedName{
+    width: 486px;
+}
+.firstName{
+    padding: 10px 0px 10px 0px;
+    font-size: 35px;
+    width: 490px;
+}
+#dateInp{
+    padding: 10px 0px 10px 0px;
+    font-size: 35px;
+}
+.input0{
+    font-size: 25px;
+}
+.input0:hover, .toList:hover{
+    background-color: rgb(255, 38, 0);
+    color: white;
+}
+body{
+    background-color: rgb(0, 140, 255);
+
+}
+.formDiv{
+    margin-left: 50%;
+    transform: translate(-250px, 0);
+}
+button{
+    /*margin-left: 45%; 
+    transform: translate(-00px, 0); */
+    margin-bottom: 10px;
+}
+a{
+   /* margin-left: -60px; */
+    color: rgb(255, 0, 0);
+}
+.toList{
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    border: 5px solid white;
+    border-radius: 15px;
+    margin-left: 50%;
+    transform: translate(-242px, 0);
+    font-size: 25px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    border: 5px solid white;
+    border-radius: 15px;
+    /*font-size: 20px;*/
+   
+    
+    margin-right: 0px;
+    margin-left: 290px;
+    margin-right: 40px;
+}
+.newDiv{
+    width: 500px;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 50%;
+    background-color: aqua;
+    transform: translate(-250px, 0);
+    padding-top: 10px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+/* Adult / Child varification */
+.adult{
+    color: white;
+}
+.child{
+    color: red;
+}
+#changing-form{
+    width: 500px;
+}
