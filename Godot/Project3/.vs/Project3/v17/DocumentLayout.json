@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DokumentyD\\Refer\u00E1ty a prokekty\\Soukrom\u00E9\\GitNoveNahravky\\CovidoveHrani\\Godot\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635550F4-C333-4B3F-BBEE-BD1F22CEEAA0}|Project3.csproj|d:\\dokumentyd\\refer\u00E1ty a prokekty\\soukrom\u00E9\\gitnovenahravky\\covidovehrani\\godot\\project3\\environmentscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635550F4-C333-4B3F-BBEE-BD1F22CEEAA0}|Project3.csproj|solutionrelative:environmentscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635550F4-C333-4B3F-BBEE-BD1F22CEEAA0}|Project3.csproj|d:\\dokumentyd\\refer\u00E1ty a prokekty\\soukrom\u00E9\\gitnovenahravky\\covidovehrani\\godot\\project3\\scene0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635550F4-C333-4B3F-BBEE-BD1F22CEEAA0}|Project3.csproj|solutionrelative:scene0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635550F4-C333-4B3F-BBEE-BD1F22CEEAA0}|Project3.csproj|d:\\dokumentyd\\refer\u00E1ty a prokekty\\soukrom\u00E9\\gitnovenahravky\\covidovehrani\\godot\\project3\\spritecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635550F4-C333-4B3F-BBEE-BD1F22CEEAA0}|Project3.csproj|solutionrelative:spritecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635550F4-C333-4B3F-BBEE-BD1F22CEEAA0}|Project3.csproj|d:\\dokumentyd\\refer\u00E1ty a prokekty\\soukrom\u00E9\\gitnovenahravky\\covidovehrani\\godot\\project3\\buttoncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635550F4-C333-4B3F-BBEE-BD1F22CEEAA0}|Project3.csproj|solutionrelative:buttoncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 376,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnvironmentScript.cs",
+              "DocumentMoniker": "D:\\DokumentyD\\Refer\u00E1ty a prokekty\\Soukrom\u00E9\\GitNoveNahravky\\CovidoveHrani\\Godot\\Project3\\EnvironmentScript.cs",
+              "RelativeDocumentMoniker": "EnvironmentScript.cs",
+              "ToolTip": "D:\\DokumentyD\\Refer\u00E1ty a prokekty\\Soukrom\u00E9\\GitNoveNahravky\\CovidoveHrani\\Godot\\Project3\\EnvironmentScript.cs",
+              "RelativeToolTip": "EnvironmentScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:25:39.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonCode.cs",
+              "DocumentMoniker": "D:\\DokumentyD\\Refer\u00E1ty a prokekty\\Soukrom\u00E9\\GitNoveNahravky\\CovidoveHrani\\Godot\\Project3\\ButtonCode.cs",
+              "RelativeDocumentMoniker": "ButtonCode.cs",
+              "ToolTip": "D:\\DokumentyD\\Refer\u00E1ty a prokekty\\Soukrom\u00E9\\GitNoveNahravky\\CovidoveHrani\\Godot\\Project3\\ButtonCode.cs",
+              "RelativeToolTip": "ButtonCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:01:12.244Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 376,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpriteCode.cs",
+              "DocumentMoniker": "D:\\DokumentyD\\Refer\u00E1ty a prokekty\\Soukrom\u00E9\\GitNoveNahravky\\CovidoveHrani\\Godot\\Project3\\SpriteCode.cs",
+              "RelativeDocumentMoniker": "SpriteCode.cs",
+              "ToolTip": "D:\\DokumentyD\\Refer\u00E1ty a prokekty\\Soukrom\u00E9\\GitNoveNahravky\\CovidoveHrani\\Godot\\Project3\\SpriteCode.cs",
+              "RelativeToolTip": "SpriteCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:01:04.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scene0.cs",
+              "DocumentMoniker": "D:\\DokumentyD\\Refer\u00E1ty a prokekty\\Soukrom\u00E9\\GitNoveNahravky\\CovidoveHrani\\Godot\\Project3\\scene0.cs",
+              "RelativeDocumentMoniker": "scene0.cs",
+              "ToolTip": "D:\\DokumentyD\\Refer\u00E1ty a prokekty\\Soukrom\u00E9\\GitNoveNahravky\\CovidoveHrani\\Godot\\Project3\\scene0.cs",
+              "RelativeToolTip": "scene0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:06:33.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

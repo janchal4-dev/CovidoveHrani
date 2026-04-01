@@ -1,0 +1,18 @@
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Video1\.mono\temp\bin\Debug\Video1.dll
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Video1\.mono\temp\bin\Debug\Video1.pdb
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Video1\.mono\temp\obj\Debug\Video1.csproj.AssemblyReference.cache
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Video1\.mono\temp\obj\Debug\Video1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Video1\.mono\temp\obj\Debug\Video1.AssemblyInfoInputs.cache
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Video1\.mono\temp\obj\Debug\Video1.AssemblyInfo.cs
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Video1\.mono\temp\obj\Debug\Video1.csproj.CoreCompileInputs.cache
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Video1\.mono\temp\obj\Debug\Video1.dll
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Video1\.mono\temp\obj\Debug\Video1.pdb
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Jumping game\.mono\temp\bin\Debug\Video1.dll
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Jumping game\.mono\temp\bin\Debug\Video1.pdb
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Jumping game\.mono\temp\obj\Debug\Video1.csproj.AssemblyReference.cache
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Jumping game\.mono\temp\obj\Debug\Video1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Jumping game\.mono\temp\obj\Debug\Video1.AssemblyInfoInputs.cache
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Jumping game\.mono\temp\obj\Debug\Video1.AssemblyInfo.cs
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Jumping game\.mono\temp\obj\Debug\Video1.csproj.CoreCompileInputs.cache
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Jumping game\.mono\temp\obj\Debug\Video1.dll
+D:\DokumentyD\Referáty a prokekty\Godot\Godot3.1.1\Jumping game\.mono\temp\obj\Debug\Video1.pdb

@@ -1,0 +1,50 @@
+[gd_scene load_steps=5 format=3 uid="uid://dkf4u3lg45h4b"]
+
+[ext_resource type="Script" path="res://scene0.cs" id="1_5th5p"]
+[ext_resource type="Texture2D" uid="uid://cgc84gmeq0xts" path="res://icon.svg" id="1_xcabb"]
+[ext_resource type="Script" path="res://SpriteCode.cs" id="3_uhewa"]
+[ext_resource type="Script" path="res://ButtonCode.cs" id="4_ag0ft"]
+
+[node name="Node" type="Node2D"]
+position = Vector2(47, 47)
+script = ExtResource("1_5th5p")
+
+[node name="Sprite" type="Sprite2D" parent="."]
+position = Vector2(853, 279)
+scale = Vector2(2.32813, 2.29688)
+texture = ExtResource("1_xcabb")
+script = ExtResource("3_uhewa")
+
+[node name="Button0" type="Button" parent="."]
+offset_left = 66.0
+offset_top = 65.0
+offset_right = 341.0
+offset_bottom = 219.0
+theme_override_font_sizes/font_size = 50
+text = "Rotate left"
+text_overrun_behavior = 2
+clip_text = true
+script = ExtResource("4_ag0ft")
+metadata/_edit_use_anchors_ = true
+
+[node name="Button1" type="Button" parent="."]
+offset_left = 59.0
+offset_top = 399.0
+offset_right = 343.0
+offset_bottom = 548.0
+theme_override_font_sizes/font_size = 50
+text = "Rotate right"
+script = ExtResource("4_ag0ft")
+metadata/_edit_use_anchors_ = true
+
+[node name="CheckButton" type="CheckButton" parent="."]
+offset_left = 403.0
+offset_top = 220.0
+offset_right = 447.0
+offset_bottom = 244.0
+scale = Vector2(4.75778, 4.17075)
+icon_alignment = 1
+script = ExtResource("4_ag0ft")
+metadata/_edit_use_anchors_ = true
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
